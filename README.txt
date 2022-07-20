@@ -1,4 +1,4 @@
-# comandos usados
+## comandos usados
 
  - cd git-exercise
  - git init
